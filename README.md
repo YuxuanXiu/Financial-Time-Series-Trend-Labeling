@@ -23,7 +23,7 @@ The following three figures show the labeling results for the CSI 300 price time
 
 To run this example you need the following packages:
 ```
-pip install numpy,tqdm,akshare,matplotlib
+pip install numpy tqdm akshare matplotlib
 ```
 
 ## Citation
